@@ -49,7 +49,7 @@ body{
 .progress{
     background: var(--line-border-fill);
     position: absolute;
-    top: 0%;
+    top: 50%;
     left: 0%;
     transform: translateY(-50%);
     height: 4px;
